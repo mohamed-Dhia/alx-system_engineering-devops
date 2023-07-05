@@ -1,0 +1,2 @@
+#!/bin/bash
+mv \b[A-Z].*\b /temp/u
