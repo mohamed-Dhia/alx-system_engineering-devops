@@ -1,2 +1,2 @@
 #!/bin/bash
-mv \b[A-Z].*\b /temp/u
+mv [A-Z]* /temp/u
